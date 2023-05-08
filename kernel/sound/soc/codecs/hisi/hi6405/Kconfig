@@ -1,2 +1,0 @@
-config SND_SOC_HI6405
-	tristate "HI Soc Smartstar Codec hi6405 support"

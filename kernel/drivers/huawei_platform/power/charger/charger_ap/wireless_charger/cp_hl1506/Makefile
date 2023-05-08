@@ -1,1 +1,0 @@
-obj-$(CONFIG_WIRELESS_CP_HL1506) += cp_hl1506.o

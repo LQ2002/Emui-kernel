@@ -1,2 +1,0 @@
-source "drivers/huawei_platform/power/hardware_buckboost/boost_5v/Kconfig"
-source "drivers/huawei_platform/power/hardware_buckboost/buck_boost/Kconfig"
